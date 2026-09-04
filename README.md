@@ -1,0 +1,1 @@
+This repository provides the source code for a hybrid CNN-LSTM model integrating Multi-Head Self-Attention (MHSA) and Dual Attention for early prediction of student dropout in Massive Open Online Courses (MOOCs). The implementation is designed to capture local behavioral patterns, temporal dependencies, and relevant long-range interactions in learner activity sequences.
